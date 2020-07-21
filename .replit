@@ -1,1 +1,1 @@
-run = "javac PartnerGenerator.java && java PartnerGenerator"
+run = "javac OregonTrailMathGame.java && java OregonTrailMathGame"
