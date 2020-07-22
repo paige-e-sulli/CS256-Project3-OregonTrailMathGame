@@ -30,9 +30,9 @@ public class OregonTrailMathGame {
   }
   static void thirdQuestion(){
     Scanner newScanner = new Scanner(System.in);
-    System.out.println("\n\nQuestion 3: \n\nJane's scores for the first three science tests were 80, 93, and 100. What score does Jane need to get on the fourth test to have an average test score of 94?");
+    System.out.println("\n\nQuestion 3: \n\nJane's scores for the first three science tests were 80, 93, and 100. What score does Jane need to get on the fourth test to have an average test score of 93?");
     String questionThree = newScanner.nextLine();
-    if(questionThree.equals("97"))
+    if(questionThree.equals("99"))
     {
      fourthQuestion();
     }
